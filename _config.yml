@@ -1,6 +1,6 @@
-site: "TJ Laplanche"
+site: Board Jekyll Theme
 
-url:https://artoftjlaplanche.com 
+url: 
 baseurl: 
 
 collections:
@@ -52,7 +52,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 20
+paginate: 10
 paginate_path: "/blog/page:num/"
 
 grid_alignments:
