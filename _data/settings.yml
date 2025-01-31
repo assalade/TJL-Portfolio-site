@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Board
+  site_title: TJ Laplanche
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -18,10 +18,10 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Board – a stylish full-width masonry grid Jekyll theme
+  footer_tagline: TJ Laplanche – Vizdev & Concept artist 
 
 grid_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.4
   grid_spacing: 20
   content_alignment: bottom
 
